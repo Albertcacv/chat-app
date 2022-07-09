@@ -1,0 +1,8 @@
+.register {
+	height: 100vh;
+	background-image: url('/background_blue.jpg');
+	background-position: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
