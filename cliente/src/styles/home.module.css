@@ -1,0 +1,9 @@
+.homePage {
+	height: 100vh;
+	background-color: #333333;
+  display: flex;
+}
+
+.homeImage {
+	width: 100%;
+}
